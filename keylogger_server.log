@@ -1,0 +1,160 @@
+2025-03-22 11:31:29,553 - KeyloggerServer - INFO - Keylogger started
+2025-03-22 11:31:29,553 - KeyloggerServer - INFO - Server started on 0.0.0.0:9999
+2025-03-22 11:31:29,553 - KeyloggerServer - INFO - Waiting for client connections...
+2025-03-22 11:31:29,639 - pynput.keyboard.Listener - WARNING - This process is not trusted! Input event monitoring will not be possible until it is added to accessibility clients.
+2025-03-22 11:31:53,044 - KeyloggerServer - INFO - Keylogger started
+2025-03-22 11:31:53,044 - KeyloggerServer - INFO - Server started on 0.0.0.0:9999
+2025-03-22 11:31:53,044 - KeyloggerServer - INFO - Waiting for client connections...
+2025-03-22 11:31:53,147 - pynput.keyboard.Listener - WARNING - This process is not trusted! Input event monitoring will not be possible until it is added to accessibility clients.
+2025-03-22 11:32:06,779 - KeyloggerServer - INFO - New connection from: ('127.0.0.1', 56924)
+2025-03-22 11:32:11,780 - KeyloggerServer - ERROR - Error handling client 127.0.0.1:56924: Expecting value: line 1 column 1 (char 0)
+2025-03-22 11:32:15,861 - KeyloggerServer - INFO - New connection from: ('127.0.0.1', 56928)
+2025-03-22 11:32:20,862 - KeyloggerServer - ERROR - Error handling client 127.0.0.1:56928: Expecting value: line 1 column 1 (char 0)
+2025-03-22 11:36:59,447 - KeyloggerServer - INFO - Keylogger started
+2025-03-22 11:36:59,447 - KeyloggerServer - INFO - Server started on 0.0.0.0:9999 (local IP: 192.168.1.5)
+2025-03-22 11:36:59,447 - KeyloggerServer - INFO - Waiting for client connections...
+2025-03-22 11:36:59,560 - pynput.keyboard.Listener - WARNING - This process is not trusted! Input event monitoring will not be possible until it is added to accessibility clients.
+2025-03-22 11:37:46,696 - KeyloggerServer - INFO - New connection from: ('127.0.0.1', 56974)
+2025-03-22 11:37:46,696 - KeyloggerServer - INFO - Client 127.0.0.1:56974 connected
+2025-03-22 11:37:46,698 - KeyloggerServer - INFO - Sent 100 log lines to 127.0.0.1:56974
+2025-03-22 11:37:50,918 - KeyloggerServer - INFO - Sent 100 log lines to 127.0.0.1:56974
+2025-03-22 11:38:23,020 - KeyloggerServer - INFO - Created log backup: logs/keystroke_log_backup_20250322113823.txt
+2025-03-22 11:38:23,021 - KeyloggerServer - INFO - Log file cleared
+2025-03-22 11:38:23,021 - KeyloggerServer - INFO - Logs cleared by 127.0.0.1:56974
+2025-03-22 11:38:23,021 - KeyloggerServer - INFO - Sent 0 log lines to 127.0.0.1:56974
+2025-03-22 11:38:25,772 - KeyloggerServer - INFO - Sent 0 log lines to 127.0.0.1:56974
+2025-03-22 11:38:34,384 - KeyloggerServer - INFO - Sent 0 log lines to 127.0.0.1:56974
+2025-03-22 11:39:03,849 - KeyloggerServer - INFO - Sent 13 log lines to 127.0.0.1:56974
+2025-03-22 11:39:10,065 - KeyloggerServer - INFO - Sent 13 log lines to 127.0.0.1:56974
+2025-03-22 11:39:15,067 - KeyloggerServer - INFO - Sent 13 log lines to 127.0.0.1:56974
+2025-03-22 11:39:20,069 - KeyloggerServer - INFO - Sent 13 log lines to 127.0.0.1:56974
+2025-03-22 11:39:25,071 - KeyloggerServer - INFO - Sent 13 log lines to 127.0.0.1:56974
+2025-03-22 11:39:30,076 - KeyloggerServer - INFO - Sent 13 log lines to 127.0.0.1:56974
+2025-03-22 11:39:35,078 - KeyloggerServer - INFO - Sent 13 log lines to 127.0.0.1:56974
+2025-03-22 11:39:40,080 - KeyloggerServer - INFO - Sent 14 log lines to 127.0.0.1:56974
+2025-03-22 11:39:45,082 - KeyloggerServer - INFO - Sent 14 log lines to 127.0.0.1:56974
+2025-03-22 11:39:50,084 - KeyloggerServer - INFO - Sent 31 log lines to 127.0.0.1:56974
+2025-03-22 11:39:55,088 - KeyloggerServer - INFO - Sent 62 log lines to 127.0.0.1:56974
+2025-03-22 11:40:00,092 - KeyloggerServer - INFO - Sent 74 log lines to 127.0.0.1:56974
+2025-03-22 11:40:05,095 - KeyloggerServer - INFO - Sent 74 log lines to 127.0.0.1:56974
+2025-03-22 11:40:10,099 - KeyloggerServer - INFO - Sent 74 log lines to 127.0.0.1:56974
+2025-03-22 11:40:15,101 - KeyloggerServer - INFO - Sent 74 log lines to 127.0.0.1:56974
+2025-03-22 11:40:20,104 - KeyloggerServer - INFO - Sent 74 log lines to 127.0.0.1:56974
+2025-03-22 11:40:25,107 - KeyloggerServer - INFO - Sent 74 log lines to 127.0.0.1:56974
+2025-03-22 11:40:28,456 - KeyloggerServer - INFO - Client 127.0.0.1:56974 disconnected
+2025-03-22 11:40:35,542 - KeyloggerServer - INFO - Keylogger started
+2025-03-22 11:40:35,543 - KeyloggerServer - INFO - Server started on 0.0.0.0:9999 (local IP: 192.168.1.5)
+2025-03-22 11:40:35,543 - KeyloggerServer - INFO - Waiting for client connections...
+2025-03-22 11:40:35,677 - pynput.keyboard.Listener - WARNING - This process is not trusted! Input event monitoring will not be possible until it is added to accessibility clients.
+2025-03-22 11:44:23,924 - KeyloggerServer - INFO - Keylogger started
+2025-03-22 11:44:23,924 - KeyloggerServer - ERROR - Server error: [Errno 48] Address already in use
+2025-03-22 11:44:23,925 - KeyloggerServer - INFO - Server stopped
+2025-03-22 11:44:33,061 - KeyloggerServer - INFO - Keylogger started
+2025-03-22 11:44:33,062 - KeyloggerServer - ERROR - Server error: [Errno 48] Address already in use
+2025-03-22 11:44:33,062 - KeyloggerServer - INFO - Server stopped
+2025-03-22 11:44:38,295 - KeyloggerServer - INFO - Keylogger started
+2025-03-22 11:44:38,296 - KeyloggerServer - ERROR - Server error: [Errno 48] Address already in use
+2025-03-22 11:44:38,296 - KeyloggerServer - INFO - Server stopped
+2025-03-22 11:46:04,142 - KeyloggerServer - INFO - Keylogger started
+2025-03-22 11:46:04,143 - KeyloggerServer - INFO - Server started on 0.0.0.0:9999 (local IP: 192.168.1.5)
+2025-03-22 11:46:04,143 - KeyloggerServer - INFO - Waiting for client connections...
+2025-03-22 11:46:04,270 - pynput.keyboard.Listener - WARNING - This process is not trusted! Input event monitoring will not be possible until it is added to accessibility clients.
+2025-03-22 11:46:07,078 - KeyloggerServer - INFO - New connection from: ('127.0.0.1', 56991)
+2025-03-22 11:46:07,078 - KeyloggerServer - INFO - Client 127.0.0.1:56991 connected
+2025-03-22 11:46:07,084 - KeyloggerServer - INFO - Sent 100 log lines to 127.0.0.1:56991
+2025-03-22 11:46:09,003 - KeyloggerServer - INFO - Sent 100 log lines to 127.0.0.1:56991
+2025-03-22 11:50:21,226 - KeyloggerServer - INFO - Client 127.0.0.1:56991 disconnected
+2025-03-22 11:50:49,664 - KeyloggerServer - INFO - Keylogger started
+2025-03-22 11:50:49,665 - KeyloggerServer - INFO - Server started on 0.0.0.0:9999 (local IP: 192.168.1.5)
+2025-03-22 11:50:49,665 - KeyloggerServer - INFO - Waiting for client connections...
+2025-03-22 11:50:49,771 - pynput.keyboard.Listener - WARNING - This process is not trusted! Input event monitoring will not be possible until it is added to accessibility clients.
+2025-03-22 11:50:53,920 - KeyloggerServer - INFO - New connection from: ('127.0.0.1', 57026)
+2025-03-22 11:50:53,920 - KeyloggerServer - INFO - Client 127.0.0.1:57026 connected
+2025-03-22 11:50:53,923 - KeyloggerServer - INFO - Sent 100 log lines to 127.0.0.1:57026
+2025-03-22 11:50:58,875 - KeyloggerServer - INFO - Sent 100 log lines to 127.0.0.1:57026
+2025-03-22 11:51:13,691 - KeyloggerServer - INFO - Sent 100 log lines to 127.0.0.1:57026
+2025-03-22 11:51:13,971 - KeyloggerServer - INFO - Sent 100 log lines to 127.0.0.1:57026
+2025-03-22 11:51:17,187 - KeyloggerServer - INFO - Sent 100 log lines to 127.0.0.1:57026
+2025-03-22 11:51:22,206 - KeyloggerServer - INFO - Sent 100 log lines to 127.0.0.1:57026
+2025-03-22 11:51:27,225 - KeyloggerServer - INFO - Sent 100 log lines to 127.0.0.1:57026
+2025-03-22 11:51:32,241 - KeyloggerServer - INFO - Sent 100 log lines to 127.0.0.1:57026
+2025-03-22 11:51:37,254 - KeyloggerServer - INFO - Sent 100 log lines to 127.0.0.1:57026
+2025-03-22 11:51:42,271 - KeyloggerServer - INFO - Sent 100 log lines to 127.0.0.1:57026
+2025-03-22 11:51:47,285 - KeyloggerServer - INFO - Sent 100 log lines to 127.0.0.1:57026
+2025-03-22 11:51:52,303 - KeyloggerServer - INFO - Sent 100 log lines to 127.0.0.1:57026
+2025-03-22 11:51:57,318 - KeyloggerServer - INFO - Sent 100 log lines to 127.0.0.1:57026
+2025-03-22 11:52:02,334 - KeyloggerServer - INFO - Sent 100 log lines to 127.0.0.1:57026
+2025-03-22 11:54:11,258 - KeyloggerServer - INFO - Keylogger started
+2025-03-22 11:54:11,259 - KeyloggerServer - INFO - Server started on 0.0.0.0:9999 (local IP: 192.168.1.5)
+2025-03-22 11:54:11,259 - KeyloggerServer - INFO - Waiting for client connections...
+2025-03-22 11:54:11,364 - pynput.keyboard.Listener - WARNING - This process is not trusted! Input event monitoring will not be possible until it is added to accessibility clients.
+2025-03-22 11:54:13,721 - KeyloggerServer - INFO - New connection from: ('127.0.0.1', 57050)
+2025-03-22 11:54:13,721 - KeyloggerServer - INFO - Client 127.0.0.1:57050 connected
+2025-03-22 11:54:13,724 - KeyloggerServer - INFO - Sent 100 log lines to 127.0.0.1:57050
+2025-03-22 11:54:18,134 - KeyloggerServer - INFO - Sent 100 log lines to 127.0.0.1:57050
+2025-03-22 11:54:24,571 - KeyloggerServer - INFO - Sent 100 log lines to 127.0.0.1:57050
+2025-03-22 11:54:24,585 - KeyloggerServer - INFO - Sent 100 log lines to 127.0.0.1:57050
+2025-03-22 11:56:06,691 - KeyloggerServer - INFO - New connection from: ('127.0.0.1', 57056)
+2025-03-22 11:56:06,692 - KeyloggerServer - INFO - Client 127.0.0.1:57056 connected
+2025-03-22 11:56:06,692 - KeyloggerServer - INFO - New connection from: ('127.0.0.1', 57057)
+2025-03-22 11:56:06,692 - KeyloggerServer - INFO - Client 127.0.0.1:57057 connected
+2025-03-22 11:56:06,693 - KeyloggerServer - INFO - Sent 100 log lines to 127.0.0.1:57057
+2025-03-22 11:56:11,696 - KeyloggerServer - INFO - Sent 100 log lines to 127.0.0.1:57057
+2025-03-22 11:56:16,702 - KeyloggerServer - INFO - Sent 100 log lines to 127.0.0.1:57057
+2025-03-22 11:56:21,708 - KeyloggerServer - INFO - Sent 100 log lines to 127.0.0.1:57057
+2025-03-22 11:56:26,713 - KeyloggerServer - INFO - Sent 100 log lines to 127.0.0.1:57057
+2025-03-22 11:56:31,719 - KeyloggerServer - INFO - Sent 100 log lines to 127.0.0.1:57057
+2025-03-22 11:56:36,721 - KeyloggerServer - INFO - Sent 100 log lines to 127.0.0.1:57057
+2025-03-22 11:56:41,725 - KeyloggerServer - INFO - Sent 100 log lines to 127.0.0.1:57057
+2025-03-22 11:56:46,731 - KeyloggerServer - INFO - Sent 100 log lines to 127.0.0.1:57057
+2025-03-22 11:56:51,737 - KeyloggerServer - INFO - Sent 100 log lines to 127.0.0.1:57057
+2025-03-22 11:56:56,742 - KeyloggerServer - INFO - Sent 100 log lines to 127.0.0.1:57057
+2025-03-22 11:57:01,744 - KeyloggerServer - INFO - Sent 100 log lines to 127.0.0.1:57057
+2025-03-22 11:57:06,750 - KeyloggerServer - INFO - Sent 100 log lines to 127.0.0.1:57057
+2025-03-22 11:57:11,756 - KeyloggerServer - INFO - Sent 100 log lines to 127.0.0.1:57057
+2025-03-22 11:57:16,762 - KeyloggerServer - INFO - Sent 100 log lines to 127.0.0.1:57057
+2025-03-22 11:57:21,768 - KeyloggerServer - INFO - Sent 100 log lines to 127.0.0.1:57057
+2025-03-22 11:57:26,774 - KeyloggerServer - INFO - Sent 100 log lines to 127.0.0.1:57057
+2025-03-22 11:57:31,780 - KeyloggerServer - INFO - Sent 100 log lines to 127.0.0.1:57057
+2025-03-22 11:57:36,785 - KeyloggerServer - INFO - Sent 100 log lines to 127.0.0.1:57057
+2025-03-22 11:57:41,791 - KeyloggerServer - INFO - Sent 100 log lines to 127.0.0.1:57057
+2025-03-22 11:57:46,800 - KeyloggerServer - INFO - Sent 100 log lines to 127.0.0.1:57057
+2025-03-22 11:57:51,810 - KeyloggerServer - INFO - Sent 100 log lines to 127.0.0.1:57057
+2025-03-22 11:57:56,816 - KeyloggerServer - INFO - Sent 100 log lines to 127.0.0.1:57057
+2025-03-22 11:58:01,822 - KeyloggerServer - INFO - Sent 100 log lines to 127.0.0.1:57057
+2025-03-22 11:58:06,827 - KeyloggerServer - INFO - Sent 100 log lines to 127.0.0.1:57057
+2025-03-22 11:58:11,663 - KeyloggerServer - INFO - New connection from: ('127.0.0.1', 57061)
+2025-03-22 11:58:11,663 - KeyloggerServer - INFO - Client 127.0.0.1:57061 connected
+2025-03-22 11:58:11,664 - KeyloggerServer - INFO - Sent 100 log lines to 127.0.0.1:57061
+2025-03-22 11:58:11,833 - KeyloggerServer - INFO - Sent 100 log lines to 127.0.0.1:57057
+2025-03-22 11:58:16,837 - KeyloggerServer - INFO - Sent 100 log lines to 127.0.0.1:57057
+2025-03-22 11:58:21,843 - KeyloggerServer - INFO - Sent 100 log lines to 127.0.0.1:57057
+2025-03-22 11:58:26,848 - KeyloggerServer - INFO - Sent 100 log lines to 127.0.0.1:57057
+2025-03-22 11:58:28,501 - KeyloggerServer - INFO - Sent 100 log lines to 127.0.0.1:57061
+2025-03-22 11:58:31,854 - KeyloggerServer - INFO - Sent 100 log lines to 127.0.0.1:57057
+2025-03-22 11:58:36,863 - KeyloggerServer - INFO - Sent 100 log lines to 127.0.0.1:57057
+2025-03-22 11:58:41,870 - KeyloggerServer - INFO - Sent 100 log lines to 127.0.0.1:57057
+2025-03-22 11:58:46,877 - KeyloggerServer - INFO - Sent 100 log lines to 127.0.0.1:57057
+2025-03-22 11:58:51,882 - KeyloggerServer - INFO - Sent 100 log lines to 127.0.0.1:57057
+2025-03-22 11:58:56,888 - KeyloggerServer - INFO - Sent 100 log lines to 127.0.0.1:57057
+2025-03-22 11:59:01,894 - KeyloggerServer - INFO - Sent 100 log lines to 127.0.0.1:57057
+2025-03-22 11:59:02,652 - KeyloggerServer - INFO - Sent 100 log lines to 127.0.0.1:57061
+2025-03-22 11:59:06,900 - KeyloggerServer - INFO - Sent 100 log lines to 127.0.0.1:57057
+2025-03-22 11:59:11,906 - KeyloggerServer - INFO - Sent 100 log lines to 127.0.0.1:57057
+2025-03-22 11:59:16,911 - KeyloggerServer - INFO - Sent 100 log lines to 127.0.0.1:57057
+2025-03-22 11:59:21,918 - KeyloggerServer - INFO - Sent 100 log lines to 127.0.0.1:57057
+2025-03-22 11:59:26,924 - KeyloggerServer - INFO - Sent 100 log lines to 127.0.0.1:57057
+2025-03-22 11:59:28,533 - KeyloggerServer - INFO - Client 127.0.0.1:57057 disconnected
+2025-03-22 11:59:28,533 - KeyloggerServer - INFO - Client 127.0.0.1:57056 disconnected
+2025-03-22 12:00:06,938 - KeyloggerServer - INFO - Keylogger started
+2025-03-22 12:00:06,938 - KeyloggerServer - INFO - Server started on 0.0.0.0:9999 (local IP: 192.168.1.5)
+2025-03-22 12:00:06,938 - KeyloggerServer - INFO - Waiting for client connections...
+2025-03-22 12:00:07,066 - pynput.keyboard.Listener - WARNING - This process is not trusted! Input event monitoring will not be possible until it is added to accessibility clients.
+2025-03-22 12:00:13,290 - KeyloggerServer - INFO - New connection from: ('127.0.0.1', 57066)
+2025-03-22 12:00:13,290 - KeyloggerServer - INFO - Client 127.0.0.1:57066 connected
+2025-03-22 12:00:13,292 - KeyloggerServer - INFO - Sent 100 log lines to 127.0.0.1:57066
+2025-03-22 12:00:21,510 - KeyloggerServer - WARNING - Unknown command from 127.0.0.1:57066: {'action': 'stop_server'}
+2025-03-22 12:00:21,511 - KeyloggerServer - INFO - Client 127.0.0.1:57066 disconnected
+2025-03-22 12:00:37,653 - KeyloggerServer - INFO - New connection from: ('127.0.0.1', 57073)
+2025-03-22 12:00:37,654 - KeyloggerServer - INFO - Client 127.0.0.1:57073 connected
+2025-03-22 12:00:43,256 - KeyloggerServer - INFO - Sent 100 log lines to 127.0.0.1:57073

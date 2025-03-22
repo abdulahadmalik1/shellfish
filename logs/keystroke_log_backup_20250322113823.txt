@@ -1,0 +1,174 @@
+[2025-03-22 11:32:00] [Linux Window] Key.up
+[2025-03-22 11:32:01] [Linux Window] Key.up
+[2025-03-22 11:32:02] [Linux Window] Key.enter
+[2025-03-22 11:32:29] [Linux Window] i
+[2025-03-22 11:32:29] [Linux Window] t
+[2025-03-22 11:32:29] [Linux Window] Key.space
+[2025-03-22 11:32:29] [Linux Window] a
+[2025-03-22 11:32:29] [Linux Window] l
+[2025-03-22 11:32:30] [Linux Window] w
+[2025-03-22 11:32:30] [Linux Window] a
+[2025-03-22 11:32:30] [Linux Window] y
+[2025-03-22 11:32:30] [Linux Window] s
+[2025-03-22 11:32:30] [Linux Window] Key.space
+[2025-03-22 11:32:30] [Linux Window] s
+[2025-03-22 11:32:30] [Linux Window] a
+[2025-03-22 11:32:31] [Linux Window] s
+[2025-03-22 11:32:31] [Linux Window] y
+[2025-03-22 11:32:32] [Linux Window] Key.backspace
+[2025-03-22 11:32:32] [Linux Window] Key.backspace
+[2025-03-22 11:32:32] [Linux Window] y
+[2025-03-22 11:32:32] [Linux Window] s
+[2025-03-22 11:32:32] [Linux Window] Key.space
+[2025-03-22 11:32:32] [Linux Window] c
+[2025-03-22 11:32:33] [Linux Window] o
+[2025-03-22 11:32:33] [Linux Window] n
+[2025-03-22 11:32:33] [Linux Window] n
+[2025-03-22 11:32:33] [Linux Window] e
+[2025-03-22 11:32:33] [Linux Window] c
+[2025-03-22 11:32:34] [Linux Window] t
+[2025-03-22 11:32:34] [Linux Window] i
+[2025-03-22 11:32:34] [Linux Window] o
+[2025-03-22 11:32:34] [Linux Window] n
+[2025-03-22 11:32:34] [Linux Window] t
+[2025-03-22 11:32:34] [Linux Window] Key.space
+[2025-03-22 11:32:34] [Linux Window] i
+[2025-03-22 11:32:35] [Linux Window] m
+[2025-03-22 11:32:35] [Linux Window] e
+[2025-03-22 11:32:35] [Linux Window] Key.space
+[2025-03-22 11:32:36] [Linux Window] o
+[2025-03-22 11:32:36] [Linux Window] u
+[2025-03-22 11:32:36] [Linux Window] t
+[2025-03-22 11:32:36] [Linux Window] Key.enter
+[2025-03-22 11:33:02] [Linux Window] i
+[2025-03-22 11:33:03] [Linux Window] Key.space
+[2025-03-22 11:33:03] [Linux Window] w
+[2025-03-22 11:33:03] [Linux Window] a
+[2025-03-22 11:33:03] [Linux Window] n
+[2025-03-22 11:33:03] [Linux Window] t
+[2025-03-22 11:33:03] [Linux Window] Key.space
+[2025-03-22 11:33:03] [Linux Window] g
+[2025-03-22 11:33:04] [Linux Window] e
+[2025-03-22 11:33:04] [Linux Window] n
+[2025-03-22 11:33:04] [Linux Window] e
+[2025-03-22 11:33:04] [Linux Window] r
+[2025-03-22 11:33:04] [Linux Window] i
+[2025-03-22 11:33:04] [Linux Window] c
+[2025-03-22 11:33:04] [Linux Window] Key.space
+[2025-03-22 11:33:05] [Linux Window] w
+[2025-03-22 11:33:05] [Linux Window] h
+[2025-03-22 11:33:05] [Linux Window] e
+[2025-03-22 11:33:06] [Linux Window] r
+[2025-03-22 11:33:06] [Linux Window] e
+[2025-03-22 11:33:06] [Linux Window] Key.space
+[2025-03-22 11:33:06] [Linux Window] i
+[2025-03-22 11:33:06] [Linux Window] Key.space
+[2025-03-22 11:33:06] [Linux Window] r
+[2025-03-22 11:33:06] [Linux Window] u
+[2025-03-22 11:33:07] [Linux Window] n
+[2025-03-22 11:33:07] [Linux Window] Key.space
+[2025-03-22 11:33:07] [Linux Window] s
+[2025-03-22 11:33:07] [Linux Window] e
+[2025-03-22 11:33:08] [Linux Window] r
+[2025-03-22 11:33:08] [Linux Window] v
+[2025-03-22 11:33:08] [Linux Window] e
+[2025-03-22 11:33:08] [Linux Window] r
+[2025-03-22 11:33:08] [Linux Window] Key.space
+[2025-03-22 11:33:08] [Linux Window] a
+[2025-03-22 11:33:08] [Linux Window] n
+[2025-03-22 11:33:08] [Linux Window] d
+[2025-03-22 11:33:09] [Linux Window] Key.space
+[2025-03-22 11:33:09] [Linux Window] w
+[2025-03-22 11:33:09] [Linux Window] h
+[2025-03-22 11:33:09] [Linux Window] e
+[2025-03-22 11:33:09] [Linux Window] r
+[2025-03-22 11:33:10] [Linux Window] v
+[2025-03-22 11:33:10] [Linux Window] e
+[2025-03-22 11:33:10] [Linux Window] Key.backspace
+[2025-03-22 11:33:10] [Linux Window] Key.backspace
+[2025-03-22 11:33:10] [Linux Window] e
+[2025-03-22 11:33:11] [Linux Window] v
+[2025-03-22 11:33:11] [Linux Window] e
+[2025-03-22 11:33:11] [Linux Window] r
+[2025-03-22 11:33:11] [Linux Window] Key.space
+[2025-03-22 11:33:11] [Linux Window] i
+[2025-03-22 11:33:11] [Linux Window] Key.space
+[2025-03-22 11:33:11] [Linux Window] r
+[2025-03-22 11:33:12] [Linux Window] u
+[2025-03-22 11:33:12] [Linux Window] n
+[2025-03-22 11:33:12] [Linux Window] Key.space
+[2025-03-22 11:33:12] [Linux Window] c
+[2025-03-22 11:33:12] [Linux Window] l
+[2025-03-22 11:33:13] [Linux Window] i
+[2025-03-22 11:33:13] [Linux Window] e
+[2025-03-22 11:33:13] [Linux Window] n
+[2025-03-22 11:33:13] [Linux Window] t
+[2025-03-22 11:33:13] [Linux Window] Key.space
+[2025-03-22 11:33:13] [Linux Window] t
+[2025-03-22 11:33:13] [Linux Window] h
+[2025-03-22 11:33:14] [Linux Window] e
+[2025-03-22 11:33:14] [Linux Window] Key.space
+[2025-03-22 11:33:14] [Linux Window] Key.backspace
+[2025-03-22 11:33:15] [Linux Window] y
+[2025-03-22 11:33:15] [Linux Window] Key.space
+[2025-03-22 11:33:15] [Linux Window] s
+[2025-03-22 11:33:15] [Linux Window] h
+[2025-03-22 11:33:15] [Linux Window] o
+[2025-03-22 11:33:15] [Linux Window] u
+[2025-03-22 11:33:16] [Linux Window] l
+[2025-03-22 11:33:16] [Linux Window] d
+[2025-03-22 11:33:16] [Linux Window] Key.space
+[2025-03-22 11:33:16] [Linux Window] d
+[2025-03-22 11:33:16] [Linux Window] y
+[2025-03-22 11:33:16] [Linux Window] n
+[2025-03-22 11:33:16] [Linux Window] a
+[2025-03-22 11:33:17] [Linux Window] m
+[2025-03-22 11:33:17] [Linux Window] i
+[2025-03-22 11:33:17] [Linux Window] c
+[2025-03-22 11:33:17] [Linux Window] a
+[2025-03-22 11:33:17] [Linux Window] l
+[2025-03-22 11:33:17] [Linux Window] l
+[2025-03-22 11:33:18] [Linux Window] y
+[2025-03-22 11:33:18] [Linux Window] Key.space
+[2025-03-22 11:33:18] [Linux Window] w
+[2025-03-22 11:33:18] [Linux Window] o
+[2025-03-22 11:33:18] [Linux Window] r
+[2025-03-22 11:33:18] [Linux Window] k
+[2025-03-22 11:33:19] [Linux Window] Key.enter
+[2025-03-22 11:33:42] [Linux Window] Key.caps_lock
+[2025-03-22 11:33:42] [Linux Window] O
+[2025-03-22 11:33:43] [Linux Window] Key.caps_lock
+[2025-03-22 11:33:43] [Linux Window] k
+[2025-03-22 11:33:43] [Linux Window] k
+[2025-03-22 11:33:43] [Linux Window] a
+[2025-03-22 11:33:44] [Linux Window] Key.space
+[2025-03-22 11:33:45] [Linux Window] t
+[2025-03-22 11:33:45] [Linux Window] e
+[2025-03-22 11:33:45] [Linux Window] Key.backspace
+[2025-03-22 11:33:46] [Linux Window] Key.backspace
+[2025-03-22 11:33:46] [Linux Window] i
+[2025-03-22 11:33:46] [Linux Window] Key.caps_lock
+[2025-03-22 11:33:46] [Linux Window] Key.backspace
+[2025-03-22 11:33:47] [Linux Window] I
+[2025-03-22 11:33:47] [Linux Window] A
+[2025-03-22 11:33:47] [Linux Window] Key.enter
+[2025-03-22 11:33:48] [Linux Window] Key.caps_lock
+[2025-03-22 11:37:09] [Unknown] Key.up
+[2025-03-22 11:37:10] [Unknown] Key.up
+[2025-03-22 11:37:10] [Unknown] Key.enter
+[2025-03-22 11:37:23] [Unknown] Key.cmd
+[2025-03-22 11:37:23] [Unknown] a
+[2025-03-22 11:37:24] [Unknown] v
+[2025-03-22 11:37:24] [Unknown] s
+[2025-03-22 11:37:27] [Unknown] Key.up
+[2025-03-22 11:37:27] [Unknown] Key.enter
+[2025-03-22 11:37:37] [Unknown] Key.cmd
+[2025-03-22 11:37:38] [Unknown] z
+[2025-03-22 11:37:38] [Unknown] z
+[2025-03-22 11:37:41] [Unknown] Key.shift_r
+[2025-03-22 11:37:42] [Unknown] Key.up
+[2025-03-22 11:37:43] [Unknown] Key.enter
+[2025-03-22 11:37:58] [Unknown] a
+[2025-03-22 11:37:59] [Unknown] h
+[2025-03-22 11:37:59] [Unknown] a
+[2025-03-22 11:37:59] [Unknown] d
