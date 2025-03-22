@@ -1010,3 +1010,172 @@
 [2025-03-22 12:06:41] [Electron] Key.space
 [2025-03-22 12:06:41] [Electron] .
 [2025-03-22 12:06:42] [Electron] Key.enter
+[2025-03-22 12:06:42] [Electron] Key.shift_r
+[2025-03-22 12:06:43] [Electron] Key.up
+[2025-03-22 12:06:43] [Electron] Key.up
+[2025-03-22 12:06:44] [Electron] Key.enter
+[2025-03-22 12:06:45] [Electron] g
+[2025-03-22 12:06:45] [Electron] i
+[2025-03-22 12:06:45] [Electron] t
+[2025-03-22 12:06:45] [Electron] Key.space
+[2025-03-22 12:06:45] [Electron] p
+[2025-03-22 12:06:46] [Electron] u
+[2025-03-22 12:06:46] [Electron] s
+[2025-03-22 12:06:46] [Electron] h
+[2025-03-22 12:06:46] [Electron] Key.space
+[2025-03-22 12:06:47] [Electron] o
+[2025-03-22 12:06:47] [Electron] r
+[2025-03-22 12:06:47] [Electron] i
+[2025-03-22 12:06:47] [Electron] g
+[2025-03-22 12:06:47] [Electron] i
+[2025-03-22 12:06:48] [Electron] n
+[2025-03-22 12:06:48] [Electron] Key.enter
+[2025-03-22 12:06:57] [Electron] c
+[2025-03-22 12:06:57] [Electron] l
+[2025-03-22 12:06:58] [Electron] e
+[2025-03-22 12:06:58] [Electron] a
+[2025-03-22 12:06:58] [Electron] r
+[2025-03-22 12:06:58] [Electron] Key.enter
+[2025-03-22 12:06:58] [Electron] Key.up
+[2025-03-22 12:06:59] [Electron] Key.up
+[2025-03-22 12:06:59] [Electron] Key.up
+[2025-03-22 12:07:00] [Electron] Key.up
+[2025-03-22 12:07:01] [Electron] Key.up
+[2025-03-22 12:07:01] [Electron] Key.up
+[2025-03-22 12:07:02] [Electron] Key.up
+[2025-03-22 12:07:03] [Electron] Key.enter
+[2025-03-22 12:07:08] [Google Chrome] Key.cmd
+[2025-03-22 12:07:09] [Google Chrome] a
+[2025-03-22 12:07:09] [Google Chrome] Key.cmd
+[2025-03-22 12:07:10] [Google Chrome] a
+[2025-03-22 12:07:10] [Google Chrome] c
+[2025-03-22 12:07:11] [Electron] c
+[2025-03-22 12:07:11] [Electron] l
+[2025-03-22 12:07:11] [Electron] e
+[2025-03-22 12:07:12] [Electron] a
+[2025-03-22 12:07:12] [Electron] r
+[2025-03-22 12:07:12] [Electron] Key.enter
+[2025-03-22 12:07:12] [Electron] g
+[2025-03-22 12:07:12] [Electron] i
+[2025-03-22 12:07:12] [Electron] t
+[2025-03-22 12:07:13] [Electron] Key.space
+[2025-03-22 12:07:13] [Electron] r
+[2025-03-22 12:07:13] [Electron] e
+[2025-03-22 12:07:13] [Electron] m
+[2025-03-22 12:07:13] [Electron] o
+[2025-03-22 12:07:14] [Electron] d
+[2025-03-22 12:07:14] [Electron] Key.backspace
+[2025-03-22 12:07:14] [Electron] t
+[2025-03-22 12:07:14] [Electron] e
+[2025-03-22 12:07:14] [Electron] Key.space
+[2025-03-22 12:07:14] [Electron] a
+[2025-03-22 12:07:15] [Electron] Key.backspace
+[2025-03-22 12:07:19] [Google Chrome] h
+[2025-03-22 12:07:19] [Google Chrome] o
+[2025-03-22 12:07:19] [Google Chrome] w
+[2025-03-22 12:07:19] [Google Chrome] Key.space
+[2025-03-22 12:07:19] [Google Chrome] t
+[2025-03-22 12:07:20] [Google Chrome] o
+[2025-03-22 12:07:20] [Google Chrome] Key.space
+[2025-03-22 12:07:20] [Google Chrome] r
+[2025-03-22 12:07:20] [Google Chrome] e
+[2025-03-22 12:07:20] [Google Chrome] m
+[2025-03-22 12:07:20] [Google Chrome] o
+[2025-03-22 12:07:20] [Google Chrome] v
+[2025-03-22 12:07:21] [Google Chrome] e
+[2025-03-22 12:07:21] [Google Chrome] Key.space
+[2025-03-22 12:07:21] [Google Chrome] d
+[2025-03-22 12:07:21] [Google Chrome] e
+[2025-03-22 12:07:21] [Google Chrome] f
+[2025-03-22 12:07:22] [Google Chrome] a
+[2025-03-22 12:07:22] [Google Chrome] u
+[2025-03-22 12:07:22] [Google Chrome] l
+[2025-03-22 12:07:22] [Google Chrome] t
+[2025-03-22 12:07:22] [Google Chrome] Key.space
+[2025-03-22 12:07:22] [Google Chrome] r
+[2025-03-22 12:07:23] [Google Chrome] e
+[2025-03-22 12:07:23] [Google Chrome] m
+[2025-03-22 12:07:23] [Google Chrome] o
+[2025-03-22 12:07:23] [Google Chrome] r
+[2025-03-22 12:07:23] [Google Chrome] t
+[2025-03-22 12:07:24] [Google Chrome] Key.backspace
+[2025-03-22 12:07:24] [Google Chrome] Key.backspace
+[2025-03-22 12:07:24] [Google Chrome] t
+[2025-03-22 12:07:24] [Google Chrome] e
+[2025-03-22 12:07:24] [Google Chrome] Key.space
+[2025-03-22 12:07:24] [Google Chrome] r
+[2025-03-22 12:07:25] [Google Chrome] e
+[2025-03-22 12:07:25] [Google Chrome] p
+[2025-03-22 12:07:25] [Google Chrome] o
+[2025-03-22 12:07:25] [Google Chrome] Key.enter
+[2025-03-22 12:07:33] [Google Chrome] Key.cmd
+[2025-03-22 12:07:34] [Google Chrome] v
+[2025-03-22 12:07:34] [Electron] Key.enter
+[2025-03-22 12:07:36] [Electron] c
+[2025-03-22 12:07:36] [Electron] l
+[2025-03-22 12:07:36] [Electron] e
+[2025-03-22 12:07:36] [Electron] a
+[2025-03-22 12:07:36] [Electron] r
+[2025-03-22 12:07:36] [Electron] Key.enter
+[2025-03-22 12:07:37] [Electron] Key.cmd
+[2025-03-22 12:07:37] [Electron] v
+[2025-03-22 12:07:39] [Electron] Key.enter
+[2025-03-22 12:07:43] [Google Chrome] Key.cmd
+[2025-03-22 12:07:44] [Google Chrome] c
+[2025-03-22 12:07:45] [Google Chrome] Key.cmd
+[2025-03-22 12:07:45] [Electron] v
+[2025-03-22 12:07:48] [Electron] Key.enter
+[2025-03-22 12:07:50] [Electron] g
+[2025-03-22 12:07:50] [Electron] i
+[2025-03-22 12:07:50] [Electron] t
+[2025-03-22 12:07:50] [Electron] Key.space
+[2025-03-22 12:07:50] [Electron] r
+[2025-03-22 12:07:50] [Electron] e
+[2025-03-22 12:07:50] [Electron] m
+[2025-03-22 12:07:50] [Electron] o
+[2025-03-22 12:07:51] [Electron] t
+[2025-03-22 12:07:51] [Electron] e
+[2025-03-22 12:07:51] [Electron] Key.space
+[2025-03-22 12:07:51] [Electron] a
+[2025-03-22 12:07:52] [Electron] d
+[2025-03-22 12:07:52] [Electron] d
+[2025-03-22 12:07:52] [Electron] Key.space
+[2025-03-22 12:07:52] [Electron] o
+[2025-03-22 12:07:52] [Electron] r
+[2025-03-22 12:07:52] [Electron] i
+[2025-03-22 12:07:52] [Electron] g
+[2025-03-22 12:07:52] [Electron] i
+[2025-03-22 12:07:53] [Electron] n
+[2025-03-22 12:07:53] [Electron] Key.space
+[2025-03-22 12:07:55] [Google Chrome] Key.cmd
+[2025-03-22 12:07:56] [Google Chrome] a
+[2025-03-22 12:07:56] [Google Chrome] Key.cmd
+[2025-03-22 12:07:57] [Google Chrome] a
+[2025-03-22 12:07:57] [Google Chrome] c
+[2025-03-22 12:07:58] [Electron] Key.cmd
+[2025-03-22 12:07:58] [Electron] v
+[2025-03-22 12:07:59] [Electron] Key.enter
+[2025-03-22 12:08:01] [Electron] Key.up
+[2025-03-22 12:08:02] [Electron] Key.up
+[2025-03-22 12:08:02] [Electron] Key.up
+[2025-03-22 12:08:02] [Electron] Key.up
+[2025-03-22 12:08:03] [Electron] Key.up
+[2025-03-22 12:08:03] [Electron] Key.up
+[2025-03-22 12:08:04] [Electron] Key.up
+[2025-03-22 12:08:04] [Electron] Key.up
+[2025-03-22 12:08:04] [Electron] Key.up
+[2025-03-22 12:08:05] [Electron] Key.up
+[2025-03-22 12:08:05] [Electron] Key.up
+[2025-03-22 12:08:06] [Electron] Key.up
+[2025-03-22 12:08:06] [Electron] Key.up
+[2025-03-22 12:08:08] [Electron] Key.enter
+[2025-03-22 12:08:09] [Electron] g
+[2025-03-22 12:08:10] [Electron] i
+[2025-03-22 12:08:10] [Electron] t
+[2025-03-22 12:08:10] [Electron] Key.space
+[2025-03-22 12:08:10] [Electron] a
+[2025-03-22 12:08:10] [Electron] d
+[2025-03-22 12:08:10] [Electron] d
+[2025-03-22 12:08:10] [Electron] Key.space
+[2025-03-22 12:08:11] [Electron] .
+[2025-03-22 12:08:11] [Electron] Key.enter
